@@ -39,41 +39,41 @@ Additionally, I created new columns to offer a more comprehensive perspective of
 <h3>In depth Analysis of high attrition departments:</h3>
 <ol>
   <li>
-    Finance:
+    <b>Finance:</b>
     <ul>
       <li><b>High attrition among employees with two promotions:</b> Employees who received two promotions tend to leave at a higher rate. However, this trend is the opposite for both entry-level and more experienced employees, who show lower attrition rates.</li>
       <li><b>Attrition among high performers:</b> Junior and senior employees make up the majority of high-performing employees leaving the organization.</li>
       <li><b>Key factors driving high performers to leave:</b> Long working hours, excessive overtime, and low salaries contribute to the attrition of top performers. For senior employees, below-average salary is the most significant factor, whereas for junior employees, overtime, long working hours, and remote work frequency are the primary reasons.</li>
     </ul>
-  </li>
+  </li><br/>
   <li>
-    HR:
+    <b>HR:</b>
     <ul>
       <li>High performers with two promotions are leaving at a faster rate.</li>
       <li>High attrition rates are prevalent among Junior, Mid-level, and Experienced employees.</li>
       <li>Among high performers, Experienced and Junior employees exhibit the highest attrition. Employees earning below 5k, which is significantly below average, are departing rapidly. For those with competitive salaries, factors like working hours, overtime, and the frequency of remote work are critical contributors to their decision to leave.</li>
       <li>Salary plays a significant role in the attrition of Junior and Mid-level employees.</li>
     </ul>
-  </li>
+  </li><br/>
   <li>
-    Marketing:
+    <b>Marketing:</b>
     <ul>
       <li>In the marketing department, attrition is notably high among low performers, particularly at the Entry-level and Senior positions.</li>
       <li>For Entry-level employees, below-average salary is a key driver of attrition. While salary also impacts Senior employees, additional factors like overtime and long working hours significantly contribute to their decision to leave.</li>
       <li>Small team sizes are contributing to high attrition rates among Entry-level employees.</li>
     </ul>
-  </li>
+  </li><br/>
   <li>
-    Sales:
+    <b>Sales:</b>
     <ul>
       <li>In the Sales department, attrition is particularly pronounced among high performers, with Senior, Experienced, and Entry-level employees leaving at the highest rates.</li>
       <li>The factors influencing attrition vary by experience level. For Entry-level employees, those who have received two promotions tend to have low satisfaction scores and high attrition rates. Overtime and long working hours are also important factors.</li>
       <li>For Experienced employees, the frequency of remote work, overtime, and long working hours play a critical role in attrition.</li>
       <li>Senior employees with zero promotions are showing high attrition rates. The specific reasons for this are unclear, but attrition is especially high in the 20-30 and 40-50 age groups.</li>
     </ul>
-  </li>
+  </li><br/>
   <li>
-    Legal:
+    <b>Legal:</b>
     <ul>
       <li>The Legal department has the highest attrition rate among Entry-level employees.</li>
       <li>Entry-level employees in the 50-60 age group are leaving at an elevated rate, especially those earning between $5k and $7k, and those who have received two promotions.</li>
